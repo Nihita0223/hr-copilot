@@ -1,0 +1,5 @@
+open -e .gitignore
+.DS_Store
+node_modules
+.env
+dist
